@@ -3,6 +3,5 @@ Built a dashboard in Flask that uses BeautifulSoup to parse polling data from th
 data obtained from FiveThirtyEight
 
 #Final Result
- <img src="Screen Shot 2021-03-22 at 3.57.12 AM![image](https://user-images.githubusercontent.com/55611197/111958529-b97a7c00-8ac3-11eb-9953-15acc25f86c0.png)
-" width="100">
+ <img src="https://user-images.githubusercontent.com/55611197/111958529-b97a7c00-8ac3-11eb-9953-15acc25f86c0.png" width="100">
  
